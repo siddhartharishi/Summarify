@@ -1,0 +1,10 @@
+validators
+youtube_transcript_api
+pytube
+langchain_core
+langchain_groq
+langchain_classic
+langchain_community
+streamlit
+unstructured
+langchain_text_splitters
