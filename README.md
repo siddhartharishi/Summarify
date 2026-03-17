@@ -1,4 +1,4 @@
-📖 YouTube & Website Content Summarizer
+# 📖 YouTube & Website Content Summarizer
 
 Summarizer is a simple Streamlit application that allows you to summarize content from YouTube videos and websites using AI.
 
